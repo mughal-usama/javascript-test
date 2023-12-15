@@ -12,16 +12,24 @@ let valueInNumber = Number(score)
 // "33afv" => NaN Not a number
 // true => 1; false => 0
 
-// let isLoggedin = ""
+let isLoggedin = ""
 
-// let booleanIsLoggedIn = Boolean(isLoggedin);
+let booleanIsLoggedIn = Boolean(isLoggedin);
 // console.log(booleanIsLoggedIn);
 
-// let userIsNull = ""
+let userIsNull = ""
 
 // console.log(userIsNull);
 
 let isNumber = 33
 let isBoolean = Boolean(isNumber)
 
-console.log(isBoolean);
+// console.log(isBoolean);
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2/2);
+console.log(2%2);
+console.log("2" + 2);
+console.log(7 - 5 + "2");
